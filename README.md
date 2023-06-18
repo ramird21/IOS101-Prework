@@ -28,7 +28,7 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 Here is a list of my favorite iOS apps (no specific order):
--> WhatsApp Messenger:
+- WhatsApp Messenger:
  - Status Posting Feature.
  - Voice Posting on Status Feature (New!).
  - Ability to see when messages were read.
