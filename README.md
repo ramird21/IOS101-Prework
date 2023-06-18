@@ -2,7 +2,7 @@
 
 Submitted by: Ramir Dalencour
 
-**Name of your app** is an app that... [TODO] 
+IOS 101 - Prework is an app that have three labels and a button when tapped changes the screen color to a random color. 
 
 Time spent: 2 hours spent in total
 
