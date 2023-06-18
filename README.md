@@ -40,6 +40,11 @@ Here is a list of my favorite iOS apps (no specific order):
   - The UI in general
   - Something most apps have, the login process (I would like to learn more about it)
 
+
+- My Ideas of an App to Build:
+  As I am just getting my hands on Mobile Development and more specifically on iOS development, I was thinking about
+  
+
 ## Notes
 
 Describe any challenges encountered while building the app:
