@@ -32,14 +32,14 @@ Here is a list of my favorite iOS apps (no specific order):
   - Status Posting Feature.
   - Voice Posting on Status Feature (New!).
   - Ability to see when messages were read.
--> Youtube App:
-   ->
-   ->
-   ->
--> Netflix App:
-   ->
-   ->
-   ->
+- Youtube App:
+  -
+  -
+  -
+- Netflix App:
+  -
+  -
+  -
 
 ## Notes
 
