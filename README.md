@@ -36,13 +36,14 @@ Here is a list of my favorite iOS apps (no specific order):
   - The Searching Feature
   - The ability to have videos, likes, comments stored and being accessible to everyone
 - Netflix App:
-  -
-  -
-  -
+  - The ability to have multiple users with different preferences
+  - The UI in general
+  - Something most apps have, the login process (I would like to learn more about it)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+The process was very straightforward. All of details were clear and I barely encountered any issues.
 
 ## License
 
