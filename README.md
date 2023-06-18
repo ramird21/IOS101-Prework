@@ -33,9 +33,8 @@ Here is a list of my favorite iOS apps (no specific order):
   - Voice Posting on Status Feature (New!).
   - Ability to see when messages were read.
 - Youtube App:
-  -
-  -
-  -
+  - The Searching Feature
+  - The ability to have videos, likes, comments stored and being accessible to everyone
 - Netflix App:
   -
   -
