@@ -27,6 +27,19 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+Here is a list of my favorite iOS apps (no specific order):
+-> WhatsApp Messenger:
+   ->
+   ->
+   ->
+-> Youtube App:
+   ->
+   ->
+   ->
+-> Netflix App:
+   ->
+   ->
+   ->
 
 ## Notes
 
