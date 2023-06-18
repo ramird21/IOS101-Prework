@@ -42,7 +42,10 @@ Here is a list of my favorite iOS apps (no specific order):
 
 
 - My Ideas of an App to Build:
-  As I am just getting my hands on Mobile Development and more specifically on iOS development, I was thinking about
+  As I am just getting my hands on Mobile Development and more specifically on iOS development, I was thinking about something not too advanced. The idea would be to create a
+  financial management app, where I could add different incomes I am getting, my savings and input several expenses that I may have. The app would be adding up my expenses and
+  deducting that to the amount of money I have available and keep an updated count of the money I have available. If also possible, I could have a sort of an interactive graph
+  that would break down different kinds of transactions and them up and display them by category. As of now, this what I am thinking could be a great app idea for me to work on.
   
 
 ## Notes
