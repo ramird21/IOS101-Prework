@@ -18,7 +18,6 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src ="https://www.dropbox.com/s/sp0zhogc77iqniq/Kapture%202023-06-20%20at%2003.50.05.gif" title="Video Walkthrough"/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap and uploaded on Dropbox
